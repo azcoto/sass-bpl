@@ -1,0 +1,7 @@
+**/build
+**/public
+pnpm-*.yaml
+.turbo
+.vscode
+node_modules
+routeTree.gen.ts
