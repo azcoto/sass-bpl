@@ -19,6 +19,5 @@ catalogs:
     "@types/react-dom": "^19.1.0"
   tailwind:
     tailwindcss: ^4.1.5
-    "@tailwindcss/postcss": ^4.1.5
-    postcss: ^8.5.3
+    "@tailwindcss/vite": ^4.1.5
     tailwind-merge: "^3.2.0"
